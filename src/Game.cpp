@@ -9,7 +9,7 @@ TriangleShape t3(30);
 TriangleShape t4(30);
 
 void getDistance() {
-    
+    return;    
 }
 
 void testLoad() {
